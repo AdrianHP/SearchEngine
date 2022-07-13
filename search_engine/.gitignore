@@ -1,0 +1,8 @@
+__pycache__
+.vscode/settings.json
+launch.json
+*.mtx
+*.vec
+*.df
+*.tok
+search_logic/ir_models/pickles
